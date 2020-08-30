@@ -1,5 +1,5 @@
 # Expenses App
-This is a responsive application
+This is a responsive application that the content of the screen depends on the device is on landscape mode or portriat.
 
 
 ## Screenshots
